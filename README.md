@@ -1,4 +1,4 @@
-Portfolio
+# Portfolio
 
 Bonjour, moi c’est Enzo
 
@@ -10,23 +10,23 @@ Aujourd'hui, je souhaite appliquer cette même logiques dans le domaine de l’a
 
 ⸻
 
-🎯 Mon objectif : 
+# 🎯 Mon objectif : 
 
 Construire plusieurs projets d’analyse de données afin de développer mes compétences et constituer un portfolio solide pour trouver une alternance en Data Analyst.
 
 ⸻
 
-🧰 Compétences en développement
+# 🧰 Compétences en développement
 
 
-📊 Analyse de données:
+# 📊 Analyse de données:
 - Nettoyage et préparation des données
 - Analyse exploratoire
 - Interprétation des données
 - Data storytelling
 
 
-💻 Outils :
+# 💻 Outils :
 - Excel
 - SQL
 - Python
@@ -34,113 +34,113 @@ Construire plusieurs projets d’analyse de données afin de développer mes com
 - Tableau
 
 
-📈 Visualisation :
+# 📈 Visualisation :
 - Création de dashboards interactifs
 - Visualisation de KPI
 - Présentation d’insights
 
 ⸻
 
-📂 Projets Portfolio
+# 📂 Projets Portfolio
 
 Les projets ci-dessous sont en cours de développement dans le cadre de mon apprentissage en Data Analyst.
 Chaque projet vise à répondre à une problématique métier réelle.
 
 ⸻
 
-🗃️ 1 - Dashboard RH (Excel)
+# 🗃️ 1 - Dashboard RH (Excel)
 
 (Lien) 
 
 Création d’un tableau de bord RH afin d’analyser la gestion des employés.
 
-Objectifs - Analyser :
+# Objectifs - Analyser :
 - Le taux de turnover
 - La répartition des salaires
 - L’ancienneté des employés
 - Les départs par département
 
-Compétences utilisées :
+# Compétences utilisées :
 - Excel
 - Tableaux croisés dynamiques
 - Power Query
 - Visualisation de données
 
-Statut :
+# Statut :
 🚧 Projet en cours
 
 ⸻
 
-📈 2 - Analyse des ventes e-commerce (SQL)
+# 📈 2 - Analyse des ventes e-commerce (SQL)
 
 (Lien)
 
 Analyse d’un dataset e-commerce afin de répondre à plusieurs questions de business. 
 
-Objectif - Analyser :
+# Objectif - Analyser :
 - Quels sont les produits les plus vendus ?
 - Qui sont les meilleurs clients ?
 - Quel est le revenu moyen par commande ?
 - Quelles villes génèrent le plus de chiffre d’affaires ?
 
-Compétences utilisées :
+# Compétences utilisées :
 - SQL
 - Jointures
 - Agrégations
 - Analyse de données
 
-Statut :
+# Statut :
 🚧 Projet en cours
 
 ⸻
 
-📊 3 - Dashboard vente d'une entreprise (Power BI)
+# 📊 3 - Dashboard vente d'une entreprise (Power BI)
 
 (Lien)
 
 Création d’un dashboard interactif permettant d'analyser les performances commerciales.
 
-Objectif - Analyser :
+# Objectif - Analyser :
 - Le chiffre d’affaires global
 - Les ventes par région
 - Les produits les plus performants
 - L'évolution des ventes dans le temps
 
-Compétences utilisées :
+# Compétences utilisées :
 - Power BI
 - Data modeling
 - DAX
 - Data visualisation
 
-Statut :
+# Statut :
 🚧 Projet en cours
 
 ⸻
 
-🐍 4 - Analyse de base de données (Python)
+# 🐍 4 - Analyse de base de données (Python)
 
 (Lien) 
 
-Exploration d’un dataset de la plateforme de streaming Netflix.
+# Exploration d’un dataset de la plateforme de streaming Netflix.
 
-Objectif - Explorer : 
+# Objectif - Explorer : 
 - La répartition entre films et séries
 - Les genres les plus présents
 - Les pays produisant le plus de contenu
 - L’évolution du catalogue au fil des années
 
-Compétences utilisées :
+# Compétences utilisées :
 - Python
 - Pandas
 - Matplotlib / Seaborn
 - Data visualisation
 
-Statut :
+# Statut :
 🚧 Projet en cours
 
 ⸻
 
-🚒 5 - Analyse des interventions des pompiers (Data Storytelling)
+# 🚒 5 - Analyse des interventions des pompiers (Data Storytelling)
 
 Projet d’analyse basé sur des données publiques d’interventions de pompiers.
 
@@ -148,26 +148,26 @@ Ce projet est directement lié à mon ancienne expérience professionnelle.
 
 (Lien) 
 
-Objectif - Analyser : 
+# Objectif - Analyser : 
 - Les types d’interventions les plus fréquents
 - Les zones géographiques les plus sollicitées
 - Les temps de réponse
 - Les périodes avec le plus d’interventions
 
-Objectif final :
+# Objectif final :
 Produire une analyse claire et visuelle permettant d’optimiser l’organisation des équipes d’intervention.
 
-Compétences utilisées :
+# Compétences utilisées :
 - Analyse de données
 - Visualisation
 - Data storytelling
 
-Statut :
+# Statut :
 🚧 Projet en cours
 
 ⸻
 
-📚 Ce que j’apprends actuellement
+# 📚 Ce que j’apprends actuellement
 - SQL avancé
 - Analyse exploratoire des données
 - Visualisation de données
@@ -175,7 +175,7 @@ Statut :
 
 ⸻
 
-🎯 Objectif professionnel
+# 🎯 Objectif professionnel
 
 Trouver une alternance en Data Analyst afin de :
 - Travailler sur des datasets réels
@@ -184,7 +184,7 @@ Trouver une alternance en Data Analyst afin de :
 
 ⸻
 
-📬 Me contacter :
+# 📬 Me contacter :
 
 - 💼 LinkedIn : www.linkedin.com/in/enzo-lacordaire-7434b413a
 - 📧 Email : lacordaireenzo@gmail.com
