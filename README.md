@@ -2,7 +2,7 @@
 
 Bonjour, moi c’est Enzo
 
-🚒 Ancien sapeur-pompier professionnel pendant 8 ans, je suis actuellement en reconversion vers le métier de Data Analyst.
+🚒 Ancien sapeur-pompier professionnel pendant 8 ans, je suis actuellement en reconversion vers le métier de Business Analyst.
 
 Au cours de ma carrière, j'ai travaillé dans des environnements où les décisions doivent être rapides, précises et basées sur des informations fiables.
 
@@ -12,7 +12,7 @@ Aujourd'hui, je souhaite appliquer cette même logiques dans le domaine de l’a
 
 ## 🎯 Mon objectif : 
 
-Construire plusieurs projets d’analyse de données afin de développer mes compétences et constituer un portfolio solide pour trouver une alternance en Data Analyst.
+Construire plusieurs projets d’analyse de données afin de développer mes compétences et constituer un portfolio solide pour trouver une alternance en Business Analyst.
 
 ⸻
 
@@ -43,7 +43,7 @@ Construire plusieurs projets d’analyse de données afin de développer mes com
 
 ## 📂 Projets Portfolio
 
-Les projets ci-dessous sont en cours de développement dans le cadre de mon apprentissage en Data Analyst.
+Les projets ci-dessous sont en cours de développement dans le cadre de mon apprentissage en Business Analyst.
 Chaque projet vise à répondre à une problématique métier réelle.
 
 ⸻
@@ -177,7 +177,7 @@ Produire une analyse claire et visuelle permettant d’optimiser l’organisatio
 
 ## 🎯 Objectif professionnel
 
-Trouver une alternance en Data Analyst afin de :
+Trouver une alternance en Business Analyst afin de :
 - Travailler sur des datasets réels
 - Aider à la prise de décision grâce aux données
 - Développer mes compétences en analyse et visualisation
